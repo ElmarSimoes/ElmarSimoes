@@ -9,7 +9,7 @@
 🔭 Eu sou desenvolvedor Back-end
 
 
-🌱 Estou aprimorando meu conhecimento da linguagem Python
+🌱 Estou aprimorando meu conhecimento em linguagem Python
 
 💬 Sou entusiasta no desenvolvimento Python para APIs
 
