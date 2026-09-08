@@ -22,6 +22,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarSimoes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill
     icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
