@@ -18,9 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/ElmarSimoes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ElmarSimoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarSimoes&layout=compact&langs_count=7&theme=dark"/>
-</div>
+ 
+
 
 
 <div style="display: inline_block" align="center"><br>
@@ -28,6 +27,7 @@
     icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
+
 
 
 <p></p>
