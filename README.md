@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/ElmarSimoes">
-  <img ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&
+  <img ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&>
 </div>
  
 
